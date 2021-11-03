@@ -1,3 +1,20 @@
+
+                                                          <img src = "https://github.com/vasucp1207/vasucp1207/blob/main/header.png" alt = "banner" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
