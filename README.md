@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+https://img.shields.io/badge/<>-<Javascript>-<yellow>
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
