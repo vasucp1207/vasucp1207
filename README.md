@@ -9,6 +9,9 @@
 
 <hr>
 
+<h2>Connect With Me</h2>
+<a href = "https://twitter.com/vasucp1207"><img src = "https://twitter.com/vasucp1207" width = 21px></a>
+
 <h1>Language And Frameworks</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
