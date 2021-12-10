@@ -6,6 +6,8 @@
 
 <hr>
 
+<a href = "https://twitter.com/vasucp1207"><img scr="https://www.flaticon.com/premium-icon/twitter_3256013?term=twitter&page=1&position=4&page=1&position=4&related_id=3256013&origin=search" alt = "twitter" width = 21px align = "left"</a>
+
 <h1>Language And Frameworks</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
