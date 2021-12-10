@@ -7,7 +7,7 @@
 <hr>
 
 <h2>Connent With Me</h2>
-<a  href = "https://twitter.com/vasucp1207"><img src = "https://www.flaticon.com/premium-icon/twitter_3256013?term=twitter&page=1&position=3&page=1&position=3&related_id=3256013&origin=search"></a>
+<a  href = "https://twitter.com/vasucp1207"><img src = "https://www.flaticon.com/free-icon/twitter_1409937?term=twitter&page=1&position=20&page=1&position=20&related_id=1409937&origin=search"></a>
 
 <h1>Language And Frameworks</h1>
 
