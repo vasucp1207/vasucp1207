@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src= "https://www.canva.com/design/DAEyKPMhs5Q/YNQ5stx9OJpr5913H5HENQ/edit?layoutQuery=banner">
+
+![Banner](https://www.canva.com/design/DAEyKfIyQgg/CIGd01mJwf5EO0uH4wBPnQ/edit?layoutQuery=banner)
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
