@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src "https://www.canva.com/design/DAEyKPMhs5Q/YNQ5stx9OJpr5913H5HENQ/edit?layoutQuery=banner">
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
@@ -6,7 +7,6 @@
 
 <hr>
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 <h1>Language And Frameworks</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
