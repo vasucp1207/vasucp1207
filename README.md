@@ -22,6 +22,6 @@
 <br>
 
 [![Vasu GitHub stats](https://github-readme-stats.vercel.app/api?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
-<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
