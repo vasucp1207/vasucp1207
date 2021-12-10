@@ -1,5 +1,6 @@
 <hr>
 ![Banner](/bannergif.gif)
+
 <hr>
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
