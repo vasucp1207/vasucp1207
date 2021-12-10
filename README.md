@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-
-
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
 - 👯 I’m looking to getting into open source for making the contribution to the community ...
