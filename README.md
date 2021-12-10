@@ -6,9 +6,6 @@
 
 <hr>
 
-<h2>Connent With Me</h2>
-<a  href = "https://twitter.com/vasucp1207"><img src = "https://www.flaticon.com/premium-icon/twitter_3128310?term=twitter&page=1&position=18&page=1&position=18&related_id=3128310&origin=search" alt = "twittter"></a>
-
 <h1>Language And Frameworks</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
