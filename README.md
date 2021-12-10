@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](/Purple and Pink Organic and Handcrafted Welcome Message Elementary Back to School Banner.jpg)
+![Banner](/banner.jpg)
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
