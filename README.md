@@ -1,4 +1,4 @@
-<hr>
+
 ![Banner](/bannergif.gif)
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
