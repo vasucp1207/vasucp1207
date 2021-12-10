@@ -10,7 +10,7 @@
 <hr>
 
 <h2>Connect With Me</h2>
-<a href = "https://twitter.com/vasucp1207"><img src = "https://github.com/vasucp1207/vasucp1207/blob/main/twitter.png" width = 21px></a>
+<a href = "https://twitter.com/vasucp1207"><img src = "https://github.com/vasucp1207/vasucp1207/blob/main/twitter.png" width = 31px></a>
 
 <h1>Language And Frameworks</h1>
 
