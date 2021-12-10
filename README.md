@@ -5,7 +5,7 @@
 - 👯 I’m looking to getting into open source for making the contribution to the community ...
 
 <h1>Language And Frameworks</h1>
-<br>
+<hr>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h1>Stats</h1>
-<br>
+<hr>
 
 [![Vasu GitHub stats](https://github-readme-stats.vercel.app/api?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
 <hr>
