@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://www.canva.com/design/DAEyKfIyQgg/CIGd01mJwf5EO0uH4wBPnQ/edit?layoutQuery=banner)
+![Banner](https://in.images.search.yahoo.com/search/images;_ylt=Awrxyj9fi7NhzSwAOwK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=how+to+add+images+to+your+readme+files&fr2=piv-web&type=E211IN714G0&fr=mcafee#id=2&iurl=https%3A%2F%2Fidrisolubisi.com%2Fstatic%2Fb96d05d81a5d7919232e2f1e327bc18f%2Fd073d%2Fnewrepo.png&action=click)
 
 - 🔭 I’m currently a student, and very passoniate about tech ...
 - 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
