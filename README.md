@@ -14,7 +14,7 @@
 
 <h1>Language And Frameworks</h1>
 
-![HTML5](/assets/html-5.png)
+<a href = "#"><img src = "/html-5.png" width = 31px></a>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
