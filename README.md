@@ -14,12 +14,12 @@
 
 <h1>Language And Frameworks</h1>
 
-<a href = "#"><img src = "/assets/html-5.png" width = 45px></a>
-<a href = "#"><img src = "/assets/css-3.png" width = 45px></a>
+<a href = "#"><img src = "/assets/html-5.png" width = 55px></a>
+<a href = "#"><img src = "/assets/css-3.png" width = 55px></a>
 <a href = "#"><img src = "/assets/js.png" width = 45px></a>
 <a href = "#"><img src = "/assets/physics.png" width = 45px></a>
 <a href = "#"><img src = "/assets/c.png" width = 45px></a>
-<a href = "#"><img src = "/assets/c.png" width = 45px></a>
+<a href = "#"><img src = "/assets/c-.png" width = 45px></a>
 <a href = "#"><img src = "/assets/java.png" width = 45px></a>
 <a href = "#"><img src = "/assets/python.png" width = 45px></a>
 
