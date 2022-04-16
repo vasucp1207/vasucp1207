@@ -14,16 +14,14 @@
 
 <h1>Language And Frameworks</h1>
 
-<a href = "#"><img src = "/assets/html-5.png" width = 40px></a>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href = "#"><img src = "/assets/html-5.png" width = 45px></a>
+<a href = "#"><img src = "/assets/css-3.png" width = 45px></a>
+<a href = "#"><img src = "/assets/js.png" width = 45px></a>
+<a href = "#"><img src = "/assets/physics.png" width = 45px></a>
+<a href = "#"><img src = "/assets/c.png" width = 45px></a>
+<a href = "#"><img src = "/assets/c.png" width = 45px></a>
+<a href = "#"><img src = "/assets/java.png" width = 45px></a>
+<a href = "#"><img src = "/assets/python.png" width = 45px></a>
 
 <h1>Stats</h1>
 
