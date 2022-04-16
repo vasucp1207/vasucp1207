@@ -18,7 +18,7 @@
 <a href = "#"><img src = "/assets/css-3.png" width = 55px></a>
 <a href = "#"><img src = "/assets/js.png" width = 45px></a>
 <a href = "#"><img src = "/assets/physics.png" width = 45px></a>
-<a href = "#"><img src = "/assets/redux.png" width = 45px color = white></a>
+<a href = "#"><img src = "/assets/redux.png" width = 45px background = white></a>
 <a href = "#"><img src = "/assets/firebase.png" width = 45px></a>
 <a href = "#"><img src = "/assets/c.png" width = 45px></a>
 <a href = "#"><img src = "/assets/c-.png" width = 45px></a>
