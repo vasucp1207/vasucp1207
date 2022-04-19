@@ -31,3 +31,5 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
+
+<img alt="SNAKE ANIMATION" src="https://github.com/vasucp1207/vasucp1207/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%; user-select: auto;">
