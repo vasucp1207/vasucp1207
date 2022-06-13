@@ -1,4 +1,5 @@
 ## Hello, I am Vasu👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&vCenter=true&width=1000&height=100&lines=Hello+I'm+Vasu;Hello+I'm+Frontend+Web+Developer;)
 ![Banner](/bannergif.gif)
 
 <hr>
