@@ -31,3 +31,9 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
+
+<div align="center">
+
+![Metrics](github-metrics.svg)
+
+</div>
