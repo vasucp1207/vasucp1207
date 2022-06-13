@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=2500&vCenter=true&width=1000&height=100&lines=Hello👋+I'm+Vasu;Hello+I'm+Frontend+Web+Developer;)
-![Banner](/bannergif.gif)
+<!-- ![Banner](/bannergif.gif) -->
 
 <hr>
 
@@ -28,7 +28,12 @@
 <h1>Stats</h1>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamack38&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282C3400)
+  
+  <a align="center" href="https://sansyrox.github.io">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sansyrox&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansyrox&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
 
 </div>
