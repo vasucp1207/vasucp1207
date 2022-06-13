@@ -3,9 +3,9 @@
 
 <hr>
 
-- 🔭 I’m currently a student, and very passoniate about tech ...
-- 🌱 I’m currently learning frontend and getting started with comptetive programming also ...
-- 👯 I’m looking to getting into open source for making contribution to the community ...
+-  I’m currently a student, and very passoniate about tech.
+-  I’m currently learning frontend and getting started with comptetive programming also.
+-  I’m looking to getting into open source for making contribution to the community.
 
 <hr>
 <!-- 
@@ -18,7 +18,6 @@
 <a href = "#"><img src = "/assets/css-3.png" width = 55px></a>
 <a href = "#"><img src = "/assets/js.png" width = 42px></a>
 <a href = "#"><img src = "/assets/physics.png" width = 45px></a>
-<!-- <a href = "#"><img src = "/assets/redux.png" width = 45px></a> -->
 <a href = "#"><img src = "/assets/firebase.png" width = 55px></a>
 <a href = "#"><img src = "/assets/c.png" width = 45px></a>
 <a href = "#"><img src = "/assets/c-.png" width = 45px></a>
