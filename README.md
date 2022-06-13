@@ -12,7 +12,7 @@
 <h2>Connect With Me</h2>
 <a href = "https://twitter.com/vasucp1207"><img src = "https://github.com/vasucp1207/vasucp1207/blob/main/twitter.png" width = 31px></a> -->
 
-Language And Frameworks
+# Language And Frameworks
 
 <a href = "#"><img src = "/assets/html-5.png" width = 55px></a>
 <a href = "#"><img src = "/assets/css-3.png" width = 55px></a>
@@ -25,7 +25,7 @@ Language And Frameworks
 <a href = "#"><img src = "/assets/java.png" width = 45px></a>
 <a href = "#"><img src = "/assets/python.png" width = 45px></a>
 
-Stats
+# Stats
   
   <a align="center" href="https://sansyrox.github.io">
 <p align="center">
