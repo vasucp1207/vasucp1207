@@ -27,6 +27,11 @@
 
 <h1>Stats</h1>
 
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamack38&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282C3400)
+
+</div>
 [![Vasu GitHub stats](https://github-readme-stats.vercel.app/api?username=vasucp1207)](https://github.com/vasucp1207/github-readme-stats)
 <hr>
 
