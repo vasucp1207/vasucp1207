@@ -23,6 +23,8 @@
 <a href = "#"><img src = "/assets/c-.png" width = 45px></a>
 <a href = "#"><img src = "/assets/java.png" width = 45px></a>
 <a href = "#"><img src = "/assets/python.png" width = 45px></a>
+<a href = "#"><img src = "/assets/3js.png" width = 45px></a>
+
 
 # Stats
   
